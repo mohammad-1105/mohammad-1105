@@ -1,15 +1,31 @@
+# Hi there! 👋 I'm Mohammad Aman  
 
-<h1 align="center">Hi 👋, I'm Mohammad Aman</h1>
-<h3 align="center">Coding my way through the digital realm. 💡 Passionate about programming, love to create tech wonders with precision. 🔥</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
+🌟 **Earth-based passionate web developer** dedicated to building seamless, functional, and visually appealing web applications. I combine modern frameworks, robust backend technologies, and clean UI design to deliver exceptional digital experiences.  
 
-- 💬 Ask me about **JavaScript, React**
+---
+<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
-- 📫 How to reach me **mohammadamaan1105@gmail.com**
 
-- ⚡ Fun fact **I am human**
+## 💻 My Tech Stack  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amaan_1105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amaan_1105" height="30" width="40" /></a>
+### 🖌 Frontend Development  
+- **Languages**: HTML, CSS, JavaScript, TypeScript  
+- **Frameworks & Libraries**: React.js, Next.js  
+- **State Management**: Zustand, Redux  
+- **Styling Tools**: TailwindCSS, ShadCN UI  
+
+### 🛠 Backend Development  
+- **Languages & Runtimes**: Node.js, Bun.js  
+- **Frameworks**: Express.js, Hono.js  
+
+### 🗄️ Databases & ORMs  
+- **Databases**: MongoDB, PostgreSQL  
+- **ORMs**: Mongoose, Drizzle ORM  
+
+---
+
+## 📫 Connect with Me  
+
+- **Portfolio**: [Portfolio](https://mohammadaman.vercel.app)
+- **X (Twitter)**: [Mohammad Aman](https://twitter.com/amaan_1105)  
 
