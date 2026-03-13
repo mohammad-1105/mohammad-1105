@@ -1,28 +1,47 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammad%20Aman&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Full-Stack%20Web%20Developer%20%7C%20JavaScript%20%26%20TypeScript&descSize=16&descAlignY=54" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammad%20Aman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20based%20on%20Earth.%20Powered%20by%20caffeine%20and%20electricity.&descSize=16&descAlignY=51" width="100%"/>
 </div>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&lines=%F0%9F%9A%80+Building+modern+full-stack+web+apps;⚡+React+%2F+Next.js+%2F+Node.js+%2F+TypeScript;🧠+REST+API+Design+%2B+Scalable+Backends;🗄️+PostgreSQL+%7C+MongoDB+%7C+Drizzle+%7C+Mongoose;🌍+Freelance+Developer+from+India)](https://git.io/typing-svg)
-
-</div>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammad-1105&style=for-the-badge&color=0ea5e9" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/mohammad-1105?style=for-the-badge&color=6366f1" alt="followers" />
-  <img src="https://img.shields.io/github/stars/mohammad-1105?style=for-the-badge&color=f59e0b" alt="stars" />
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3DAEF7&center=true&vCenter=true&random=false&width=800&lines=Earth-based+Passionate+Web+Developer+%F0%9F%8C%8D;Building+Seamless+Digital+Experiences+%E2%9C%A8;Crafting+Clean+%26+Functional+Applications+%F0%9F%9A%80;AI+%7C+Cloud+%7C+DevOps+Enthusiast+%F0%9F%A4%96)](https://git.io/typing-svg)
+  
 </div>
 
-<div align="center">
+<h3 align="center">Full-Stack Web Developer focused on clean UI, scalable APIs, and production-ready web apps.</h3>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mohammadaman.vercel.app-0f172a?style=for-the-badge)](https://mohammadaman.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Aman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad1105)
-[![GitHub](https://img.shields.io/badge/GitHub-mohammad--1105-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammad-1105)
-[![Email](https://img.shields.io/badge/Email-mohammadamaan1105%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadamaan1105@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%207464029673-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917464029673)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&lines=Building+modern+full-stack+web+apps;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;REST+APIs%2C+dashboards%2C+and+scalable+backends;PostgreSQL+%7C+MongoDB+%7C+Drizzle+%7C+Mongoose;Freelance+Developer+from+India" alt="Typing introduction" />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://mohammadaman.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-mohammadaman.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/mohammad1105">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammad_Aman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mohammad-1105">
+    <img src="https://img.shields.io/badge/GitHub-mohammad--1105-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:mohammadamaan1105@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mohammadamaan1105%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/917464029673">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B91%207464029673-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammad-1105&style=for-the-badge&color=0ea5e9" alt="Profile views" />
+  <a href="https://github.com/mohammad-1105?tab=followers">
+    <img src="https://img.shields.io/github/followers/mohammad-1105?style=for-the-badge&color=6366f1" alt="GitHub followers" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Freelance%20Projects-f59e0b?style=for-the-badge" alt="Open to freelance projects" />
+</p>
 
 ---
 
@@ -49,6 +68,7 @@ I build clean, fast, and production-ready web applications across frontend and b
 <div align="center">
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -58,6 +78,7 @@ I build clean, fast, and production-ready web applications across frontend and b
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge)
@@ -65,12 +86,14 @@ I build clean, fast, and production-ready web applications across frontend and b
 ![REST API](https://img.shields.io/badge/REST_API-0ea5e9?style=for-the-badge)
 
 ### Database & ORM
+
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ### Tools & Systems
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -84,6 +107,7 @@ I build clean, fast, and production-ready web applications across frontend and b
 ## 🚀 Project Highlights
 
 ### 🎙️ VoiceStack — AI Voice Platform Clone
+
 A full-stack voice generation platform inspired by modern AI voice tools.
 
 - Designed and built backend flows for voice generation + processing
@@ -92,6 +116,7 @@ A full-stack voice generation platform inspired by modern AI voice tools.
 - Modeled structured data with **PostgreSQL**
 
 ### 📦 Full-Stack Inventory Management System
+
 A practical inventory platform with APIs + dashboard experience.
 
 - Built backend services using **Node.js + Express**
