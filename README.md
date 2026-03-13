@@ -1,6 +1,6 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,20,24,25,30&text=Mohammad%20Aman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%7C%20JavaScript%20%26%20TypeScript&descAlignY=58" alt="header"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohammad%20Aman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20JavaScript%20%26%20TypeScript&descAlignY=58" alt="Mohammad Aman header" />
+</p>
 
 <div align="center">
 
